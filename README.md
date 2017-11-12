@@ -7,11 +7,11 @@ TED talks are very inspiring, and many people are motivated by them. The talks a
 When someone wants to view/listen to the talks about specific topics, they must search through all the TED talks. In any related talks, if they want to view only the top-rated talks, they must spend the time to search the most relevant TED talks. To facilitate the users, we want to group the related TED talks based on the title and description of the talks. We also need to sort them based on the number of views. Thus, whenever a new talk is added to the list it should automatically be added to one of the existing groups.
 
 
-Datasets:
+# Datasets:
 
 https://data.world/owentemple/ted-talks-complete-list
 
-Application Specifics:
+# Application Specifics:
 
 Cluster the related TED talks
 
@@ -19,7 +19,7 @@ Whenever encountering a new TED talk, classify the new talk into one of the exis
 
 Develop a Web/Mobile application that will display related TED talks together in a sorted order based on the number of views with the topic name as the header (optional)
 
-Model Implementation and Evaluation:
+# Model Implementation and Evaluation:
 
  1. Develop and implement a model on your datasets using any machine learning tools (TensorFlow, Spark MLlib, Weka, R, etc.)
  2. Perform training, testing and n-fold cross validation
@@ -28,7 +28,7 @@ Model Implementation and Evaluation:
  5. Visualize the cluster points using any machine learning visualization library
 Additional points for innovation
 
-References:
+# References:
 
 "TED profile". Mashable.com. June 27, 2011. Retrieved December 20, 2014.
 "TED reaches its billionth video view!". TED Blog. November 13, 2012. Retrieved December 20, 2014.
