@@ -6,6 +6,8 @@ TED talks are very inspiring, and many people are motivated by them. The talks a
 
 When someone wants to view/listen to the talks about specific topics, they must search through all the TED talks. In any related talks, if they want to view only the top-rated talks, they must spend the time to search the most relevant TED talks. To facilitate the users, we want to group the related TED talks based on the title and description of the talks. We also need to sort them based on the number of views. Thus, whenever a new talk is added to the list it should automatically be added to one of the existing groups.
 
+#Youtube presentation
+https://youtu.be/yEuWhSxjQkA
 
 # Datasets:
 
